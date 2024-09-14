@@ -20,8 +20,7 @@ I'm Sabrinna and I take a technical computer course at IFCE!
  <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrinnasfn/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinna-facundo-0a03ab305/) 
-[![Gmail]("https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](https://www.gmail.com/sabrinnanf07@gmail.com)
- <a target="_blank" href="mailto:lucascostamarques816@gmail.com"> <img height="30" width="110" alt="Email-Lucas" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/sabrinnanf07@gmail.com)
   
 <!-- GitHub Stats -->
 ![Sabrinna07 GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinna07&show_icons=true&theme=gotham)
